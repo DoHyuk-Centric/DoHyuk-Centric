@@ -10,4 +10,5 @@
 
 ![DoHyuk Kim](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=DoHyuk%20Kim&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Welcome%20to%20My%20Profile&descAlignY=70&descAlign=50)
 ![DoHyuk Kim](https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=footer&text=DoHyuk%20Kim&fontSize=50&fontColor=ffffff)
-![DoHyuk Kim](https://capsule-render.vercel.app/api?type=gradient&color=0:fc466b,100:3f5efb&height=150&text=DoHyuk%20Kim&fontSize=50&fontColor=ffffff)
+![DoHyuk Kim](https://capsule-render.vercel.app/api?type=waving&height=150&text=DoHyuk%20Kim&fontSize=40&fontColor=ffffff&color=auto)
+
