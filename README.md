@@ -3,3 +3,5 @@
 ![Customer-Centric Developer](https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:65a7fc&height=180&text=Customer-Centric%20Developer&fontSize=40&fontColor=ffffff)
 
 ![안드로이드 개발자](https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:65a7fc&height=180&text=안드로이드%20개발자&fontSize=40&fontColor=ffffff&fontFamily=Poppins%20Sans%20MS)
+
+![안드로이드 개발자](https://capsule-render.vercel.app/api?type=waving&color=0:ff7eb3,100:65a7fc&height=180&text=안드로이드%20개발자&fontSize=40&fontColor=ffffff&fontFamily=Caveat%20Sans%20MS)
