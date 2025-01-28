@@ -12,3 +12,4 @@
 ![DoHyuk Kim](https://capsule-render.vercel.app/api?type=waving&color=0:fc466b,100:3f5efb&height=200&section=footer&text=DoHyuk%20Kim&fontSize=50&fontColor=ffffff)
 ![DoHyuk Kim](https://capsule-render.vercel.app/api?type=waving&height=150&text=DoHyuk%20Kim&fontSize=40&fontColor=ffffff&color=auto)
 
+![DoHyuk Kim](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=DoHyuk%20Kim&fontSize=45&fontColor=ffffff&fontAlign=50&fontAlignY=50)
