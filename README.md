@@ -39,6 +39,6 @@
 <br />
 
 ## Contact
-[![Tistory](https://img.shields.io/badge/Tech_Blog-EB531F?style=for-the-badge&logo=tistory&logoColor=white)](https://hyeeoooook.tistory.com)
-
+[![Tistory](https://img.shields.io/badge/Blog-EB531F?style=for-the-badge&logo=tistory&logoColor=white)](https://hyeeoooook.tistory.com)
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clzlsdlwhgdk12@gmail.com)
 </div>
