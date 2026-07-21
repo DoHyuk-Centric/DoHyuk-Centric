@@ -39,8 +39,6 @@
 <br />
 
 ## Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DoHyuk-Centric)
 [![Tistory](https://img.shields.io/badge/Tech_Blog-EB531F?style=for-the-badge&logo=tistory&logoColor=white)](https://hyeeoooook.tistory.com)
 
 </div>
