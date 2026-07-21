@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 ![Front-End Developer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=210&text=Front-End%20Developer&fontSize=38&fontColor=ffffff&desc=Do%20Hyuk%20Kim&descAlignY=66&descSize=16&descColor=cbd5e1)
 
