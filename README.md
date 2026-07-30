@@ -34,8 +34,6 @@
 <img src="https://github-readme-stats.shion.dev/api?username=DoHyuk-Centric&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" height="165" alt="GitHub Stats" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DoHyuk-Centric&theme=tokyonight&hide_border=true&layout=compact" height="165" alt="Top Languages" />
 
-<img src="https://streak-stats.demolab.com/?user=DoHyuk-Centric&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 <br />
 
 ## Contact
