@@ -2,10 +2,11 @@
 
 ![Front-End Developer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=210&text=Front-End%20Developer&fontSize=38&fontColor=ffffff&desc=Do%20Hyuk%20Kim&descAlignY=66&descSize=16&descColor=cbd5e1)
 
-### 프론트엔드에 뿌리를 두고 팀의 구조를 세우는 개발자입니다.
+### 사용자의 고민을 웹 서비스로 해결하는 프론트엔드 개발자
 
-문제를 감이 아닌 측정으로 좁히고,  
-필요하다면 프론트엔드 밖의 경계까지 직접 넘습니다.
+사용자와 운영자에게 초점을 맞춰 개발합니다.  
+기획부터 배포까지 모두 설계한 경험이 있습니다.  
+누구나 이용할 수 있는 웹을 구현합니다.
 
 <br />
 
