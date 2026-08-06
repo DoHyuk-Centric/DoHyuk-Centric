@@ -36,11 +36,9 @@
   <tr>
     <td width="160"><strong>2026.08 -</strong></td>
     <td>
-      <strong>DOT</strong> · 개인 프로젝트
+      <a href="https://github.com/DoHyuk-Centric/Dot"><strong>Dot</strong></a> · 개인 프로젝트
       <br />
       같은 공간에 있는 사람들의 기록 과정을 dot으로 보여주는 실시간 기록·협업 플랫폼
-      <br />
-      현재 개발 중인 프로젝트입니다.
       <br /> <sub>Next.js · React Native · NestJS · Tiptap · Yjs · Hocuspocus · Socket.IO · PostgreSQL</sub>
       <br />
       <sub>🚧 Developing</sub>
