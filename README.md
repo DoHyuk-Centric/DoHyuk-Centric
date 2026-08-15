@@ -1,12 +1,6 @@
 <div>
 
-![Front-End Developer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=210&text=Front-End%20Developer&fontSize=38&fontColor=ffffff&desc=Do%20Hyuk%20Kim&descAlignY=66&descSize=16&descColor=cbd5e1)
-
-### 사용자의 고민을 웹 서비스로 해결하는 프론트엔드 개발자
-
-사용자와 운영자에게 초점을 맞춰 개발합니다.  
-기획부터 배포까지 모두 설계한 경험이 있습니다.  
-누구나 이용할 수 있는 웹을 구현합니다.
+🔗 Resume  ·  https://dohyuk-centric.github.io/resume/
 
 <br />
 
