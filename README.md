@@ -2,6 +2,8 @@
   
 ## Introduce
 🔗 Resume  ·  https://dohyuk-centric.github.io/resume/
+<br />
+💻 Portfoilo  ·  https://dohyuk-centric.github.io/frontend-portfolio/
 
 <br />
 
