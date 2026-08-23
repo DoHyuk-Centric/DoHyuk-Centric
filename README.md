@@ -3,7 +3,7 @@
 ## Introduce
 🔗 Resume  ·  https://dohyuk-centric.github.io/resume/
 <br />
-💻 Portfoilo  ·  https://dohyuk-centric.github.io/frontend-portfolio/
+💻 Portfoilo  ·  https://vercel.com/dohyuk-centrics-projects/frontend-portfolio
 
 <br />
 
