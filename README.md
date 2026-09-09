@@ -20,7 +20,7 @@
   <tr>
     <td width="160"><strong>2026.09 -</strong></td>
     <td>
-      <a href="https://github.com/DoHyuk-Centric/Dot"><strong>밑줄</strong></a> · 개인 프로젝트
+      <a href="https://github.com/DoHyuk-Centric/underscore"><strong>밑줄</strong></a> · 개인 프로젝트
       <br />
       주식 AI 솔루션 제공
       <br /> <sub>React ·  NestJS ·  PostgreSQL</sub>
