@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td width="160"><strong>2026.08 -</strong></td>
+    <td width="160"><strong>2026.09 -</strong></td>
     <td>
       <a href="https://github.com/DoHyuk-Centric/Dot"><strong>밑줄</strong></a> · 개인 프로젝트
       <br />
