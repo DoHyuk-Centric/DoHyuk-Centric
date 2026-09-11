@@ -1,8 +1,17 @@
 <div>
   
 ## Introduce
-🔗 Resume  ·  [이력서](https://dohyuk-centric.github.io/resume/)
+- DOM 갱신과 React 리렌더링 범위를 줄여 화면 성능을 개선합니다.
+- 서버 상태와 UI 상태를 분리하고, 캐싱으로 중복 요청을 줄입니다.
+- 이미지 압축·지연 로딩·캐시 설정으로 전송량을 줄입니다.
+- 데이터의 역할과 사용 범위에 따라 상태를 분리합니다.
+- 컴포넌트의 책임과 Props 구조를 정리해 변경하기 쉬운 코드를 만듭니다.
+- 성능 개선 전후를 측정하고, 수치로 효과를 확인합니다.
+- 오류를 수집하고 시각화해, 배포 후에도 문제를 추적할 수 있도록 구성합니다.
 <br />
+  
+🔗 Resume  ·  [이력서](https://dohyuk-centric.github.io/resume/)
+  
 💻 Portfoilo  ·  [포트폴리오](https://frontend-portfolio-alpha-two.vercel.app/)
 
 <br />
@@ -54,18 +63,7 @@
   <tr>
     <td><strong>2026.03 - 2026.04</strong></td>
     <td>
-      <a href="https://github.com/FRONTENDBOOTCAMP-17th/gentlelion"><strong>Gentlelion</strong></a> · 팀 프로젝트
-      <br />
-      사용자·관리자 페이지와 상품 CRUD를 구현한 젠틀몬스터 클론 서비스
-      <br />
-      <sub>JavaScript · Vite · Tailwind CSS · Playwright</sub>
-    </td>
-  </tr>
-
-  <tr>
-    <td><strong>2026.03 - 2026.04</strong></td>
-    <td>
-      <a href="https://github.com/DoHyuk-Centric/eslint-kr"><strong>ESLint-KR</strong></a> · 개인 오픈소스
+      <a href="https://github.com/DoHyuk-Centric/eslint-kr"><strong>ESLint-KR</strong></a> · 개인 프로젝트
       <br />
       ESLint v9와 Flat Config를 코드 예제로 설명하는 한국어 가이드
       <br />
